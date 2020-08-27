@@ -1,6 +1,7 @@
 
 # Employee Template  
 
+This is a command-line application for managers to be able to create a team profile page. The app will propmt users for employee information and use the inputs to generate a webpage contaning all team members and their corresponding information.
     
 ## Table of Contents
     
